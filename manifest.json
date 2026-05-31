@@ -1,0 +1,16 @@
+{
+  "short_name": "LR MANO A MANO",
+  "name": "LIGA RECORD MANO A MANO",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
